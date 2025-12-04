@@ -1,0 +1,27 @@
+h2 {
+  font-weight: 700;
+  color:#2A2A2A;
+}
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.navbar {
+    background-color:#2A2A2A;
+}
+
+.btn{
+  background-color: #2A2A2A;
+  border: #2A2A2A;
+}
+
+.price{
+  color: #2A2A2A;
+  font-weight: bold;
+}
+
+.footer {
+    background-color:#2A2A2A;
+}
